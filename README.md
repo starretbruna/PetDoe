@@ -1,11 +1,11 @@
 **#PETDOE**
 
 **EQUIPE:
-Ana Carolina
-Leticia Lopes
-Izabela França
-Mirella Taina
-Bruna Starret
+Ana Carolina,
+Leticia Lopes,
+Izabela França,
+Mirella Taina,
+Bruna Starret e
 Ruan Santos.**
 
 **Apresentação:**
@@ -13,7 +13,6 @@ O **PetDoe** é um app completo para cuidar do seu pet, oferecendo uma interface
 
 - **Mapas com as localizações de ONGs & Entidades de cuidados animais gratuitos**
 - **Veterinários**
-- **Lojas**
 - **Serviços**
 - **Oportunidades de trabalho**
 - **E o mais importante: o parceiro perfeito para amar!**
