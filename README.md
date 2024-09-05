@@ -1,3 +1,10 @@
-# PetDoe
+**#PETDOE**
 
-https://github.com/Nave-git/PetDoe/invitations
+**EQUIPE:
+Ana Carolina
+Leticia Lopes
+Izabela França
+Mirella Taina
+Bruna Starret
+Ruan Santos.**
+
