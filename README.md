@@ -1,11 +1,11 @@
 **#PETDOE**
 
 EQUIPE:
-- **Ana Carolina,**
+- **Ana Carolina,** --
 - **Leticia Lopes**
 - **Izabela França**
-- **Mirella Taina**
-- **Bruna Starret**
+- **Mirella Taina** --
+- **Bruna Starret** --
 - **Ruan Santos**
 
 **Apresentação:**
