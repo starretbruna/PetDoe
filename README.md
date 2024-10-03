@@ -17,3 +17,6 @@ O **PetDoe** é um app completo para cuidar do seu pet, oferecendo uma interface
 - **Plataforma de serviços**
 
 Com o PetDoe, cuidar do seu pet nunca foi tão fácil e conveniente!
+
+
+Projeto para apresentação <strong>hair pass <strong/>
